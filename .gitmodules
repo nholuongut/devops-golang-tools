@@ -1,0 +1,9 @@
+[submodule "bash-tools"]
+	path = bash-tools
+	url = https://github.com/https://www.linkedin.conhom/in/nholuongut/DevOps-Bash-tools
+[submodule "templates"]
+	path = templates
+	url = https://github.com/https://www.linkedin.conhom/in/nholuongut/Templates
+[submodule "sql"]
+	path = sql
+	url = https://github.com/https://www.linkedin.conhom/in/nholuongut/SQL-scripts
